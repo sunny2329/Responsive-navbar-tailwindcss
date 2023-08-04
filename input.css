@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+a{
+    color: rgb(214, 36, 214);
+    transition: all 0.3s ease-in;
+}
+
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(230, 124, 230);
+}
+
